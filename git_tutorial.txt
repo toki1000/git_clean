@@ -1,3 +1,4 @@
 gittutorial
 
 git status
+git diff
